@@ -1,0 +1,6 @@
+miner,deadline-partition,29+3 path,29+3 md5,8+2 path,8+2 md5
+f01479781,20-2,/mnt/sealed/mainnet/storage/f01479781/0/sealed/s-t01479781-281294,86506e81dabdf29aeeb666324da2c72a,/mnt/sealed/mainnet/storage/f01479781/0/sealed/.snapshot/1644984742/s-t01479781-281294,86506e81dabdf29aeeb666324da2c72a
+f01479781,20-2,/mnt/sealed/mainnet/storage/f01479781/0/sealed/s-t01479781-283113,eae6d92ec6558539f6cf51049c1848b6,/mnt/sealed/mainnet/storage/f01479781/0/sealed/.snapshot/1644984742/s-t01479781-283113,eae6d92ec6558539f6cf51049c1848b6
+f01479781,20-3,/mnt/sealed/mainnet/storage/f01479781/0/sealed/s-t01479781-393590,f95fa5db5a80abcfa3f9ebe03a6c198c,/mnt/sealed/mainnet/storage/f01479781/0/sealed/.snapshot/1644984742/s-t01479781-393590,f95fa5db5a80abcfa3f9ebe03a6c198c
+f01479781,20-3,/mnt/sealed/mainnet/storage/f01479781/0/sealed/s-t01479781-395411,1306baa8816a32b64d0f3a47171d8ea2,/mnt/sealed/mainnet/storage/f01479781/0/sealed/.snapshot/1644984742/s-t01479781-395411,1306baa8816a32b64d0f3a47171d8ea2
+f01479781,20-3,/mnt/sealed/mainnet/storage/f01479781/0/sealed/s-t01479781-397561,c39533d425e4fe483d531231012df50f,/mnt/sealed/mainnet/storage/f01479781/0/sealed/.snapshot/1644984742/s-t01479781-397561,c39533d425e4fe483d531231012df50f
