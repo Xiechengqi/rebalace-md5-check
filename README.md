@@ -1,2 +1,1 @@
-# rebalace-md5-check
-SGP Rebalance File MD5 Check
+# SGP Rebalance File MD5 Check
