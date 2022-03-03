@@ -1,0 +1,4 @@
+miner,deadline-partition,29+3 path,29+3 md5,8+2 path,8+2 md5
+f01372912,6-0,/mnt/sealed/mainnet/storage/f01372912/0/sealed/s-t01372912-12965,6f17648802e7cf2d5078ec78ad4ec412,/mnt/sealed/mainnet/storage/f01372912/0/sealed/.snapshot/1646283925/s-t01372912-12965,6f17648802e7cf2d5078ec78ad4ec412
+f01372912,6-0,/mnt/sealed/mainnet/storage/f01372912/0/sealed/s-t01372912-13454,c7471128b16e9e053f578cb45e578079,/mnt/sealed/mainnet/storage/f01372912/0/sealed/.snapshot/1646283925/s-t01372912-13454,c7471128b16e9e053f578cb45e578079
+f01372912,6-0,/mnt/sealed/mainnet/storage/f01372912/0/sealed/s-t01372912-13482,37821e36a19f857b0fd8f8210e955acc,/mnt/sealed/mainnet/storage/f01372912/0/sealed/.snapshot/1646283925/s-t01372912-13482,37821e36a19f857b0fd8f8210e955acc
